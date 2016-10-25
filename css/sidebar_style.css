@@ -21,11 +21,15 @@ nav {
 .brand-logo {
 	margin-left: 20px;
 }
-
 .main {
 	height: 99%;
 	padding-left: 300px;
 	width: 100%;
 	padding-top: 65px;
 	z-index: -1;
+}
+.side-nav {
+	padding-top: 65px;
+	width: 300px;
+	z-index: 0 !important;
 }
