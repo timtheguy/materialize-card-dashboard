@@ -1,6 +1,9 @@
 # Materialize Card Dashboard
 A custom (and straightforward) material design inspired dashboard using [Materialize](https://github.com/Dogfalo/materialize), a CSS framework based on Google's Material Design.
 
+## Demo
+__Click [here for the live demo.](https://timtheguy.github.io/materialize-card-dashboard/)__
+
 ## Code Snippets
 
 Card panels in Materialize are defined with the following structure. Do not interfere with this structure when templating the cards in index.html:
