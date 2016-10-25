@@ -1,8 +1,10 @@
 # Materialize Card Dashboard
 A custom (and straightforward) material design inspired dashboard using [Materialize](https://github.com/Dogfalo/materialize), a CSS framework based on Google's Material Design.
 
+
 ## Demo
 __Click [here for the live demo.](https://timtheguy.github.io/materialize-card-dashboard/)__
+
 
 ## Code Snippets
 
@@ -29,6 +31,7 @@ Similarly, the main text area in the dashboard is defined under this markup stru
   </div>
 </div>
 ```
+
 
 ## Motivation
 Creating a single page application that displays information from cards in a single viewport was not easily designed with the existing Materialize CSS documentation and examples. Designed for single page applications, this sample can be templated into a variety of project settings, such as database platforms that deal with quickly clicking through a variety of entries.
