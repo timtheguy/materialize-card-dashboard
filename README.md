@@ -3,7 +3,7 @@ A custom (and straightforward) material design inspired dashboard using [Materia
 
 
 ## Demo
-__Click [here for the live demo.](https://timtheguy.github.io/materialize-card-dashboard/)__
+__Check out [the live demo.](https://timtheguy.github.io/materialize-card-dashboard/)__
 
 
 ## Code Snippets
